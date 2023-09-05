@@ -1,0 +1,1 @@
+this is about shell script for shell redirection and filters
