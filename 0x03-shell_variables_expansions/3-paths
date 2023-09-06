@@ -1,2 +1,5 @@
 #!/bin/bash
-echo $PATH | tr ':' '\n' | wc -l
+PATH=$(echo $PATH)
+paths=($PATH)
+num_directories=${#paths[@]}
+echo "$num_directories"
