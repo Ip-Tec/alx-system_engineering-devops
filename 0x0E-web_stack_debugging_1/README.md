@@ -10,4 +10,4 @@
 ---
 
 ## Author
-* **Bright Daniel** - (https://github.com/brightdaniel)
+* **Innocent Peter** - (https://github.com/Ip-Tec)
