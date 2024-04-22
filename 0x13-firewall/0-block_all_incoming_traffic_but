@@ -1,4 +1,4 @@
-echo -e "Updating\n"
+echo -e "Updating very importent\n"
 
 sudo apt-get update
 
